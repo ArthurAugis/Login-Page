@@ -1,4 +1,4 @@
-<h1>Login Pagew</h1>
+<h1>Login Page</h1>
 
 # Specifications 📋
 Login page and contact page coded in HTML/CSS/JS/PHP.
